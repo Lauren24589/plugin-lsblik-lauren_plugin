@@ -1,0 +1,1 @@
+console.log("Custom plugin JS loaded successfully!");
